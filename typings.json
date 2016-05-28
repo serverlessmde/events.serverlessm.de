@@ -1,0 +1,8 @@
+{
+  "name": "apps.serverlessm.de",
+  "dependencies": {},
+  "globalDependencies": {
+    "hellojs": "registry:dt/hellojs#0.2.3+20160423145325",
+    "jquery": "registry:dt/jquery#1.10.0+20160417213236"
+  }
+}
